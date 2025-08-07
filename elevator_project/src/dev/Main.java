@@ -1,4 +1,4 @@
-package dev.model;
+package dev;
 
 public class Main {
 
